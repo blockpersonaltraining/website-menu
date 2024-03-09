@@ -161,7 +161,7 @@ header{
         font-size: 2rem;
         letter-spacing: 0.5rem;}
 .kontakt button a:hover{
-    outline-width: thin;
+    outline-width: normal;
     outline-color: #2D2C2D;
     outline-style: solid;
     background-color: #F7F6F3;
